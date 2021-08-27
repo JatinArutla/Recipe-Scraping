@@ -18,4 +18,4 @@ Returns CSV files for the Recipe Nutrition data, Recipe Ingredient data and a Pi
 ``` python3 recipe_scraping.py --starting_url <starting_url> --ending_url <ending_url> ```      
 --starting_url: The ID of the Recipe that we start the scraping from    
 --ending_url: The ID of the Recipe that we end the scraping at       
-ex: ``` python3 dump_html.py --inputFile 4003 --outputFile 4010 ```
+ex: ``` python3 recipe_scraping.py --inputFile 4003 --outputFile 4010 ```
