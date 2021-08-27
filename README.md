@@ -1,7 +1,7 @@
 # Recipe-Scraping
  
 ## Cloning
-git clone https://github.com/JatinArutla/Recipe-Scraping.git
+git clone https://github.com/JatinArutla/Recipe-Scraping.git <br>
 cd Recipe-Scraping
 
 ## Web Scraping and Creating a CSV file 
