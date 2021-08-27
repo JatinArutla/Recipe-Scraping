@@ -16,6 +16,6 @@ Install the following:
 Returns CSV files for the Recipe Nutrition data, Recipe Ingredient data and a Pickle file for the Forms of Ingredient data
 ### Usage:
 ``` python3 recipe_scraping.py --starting_url <starting_url> --ending_url <ending_url> ```      
---starting_url: The ID of the Recipe that we start the scraping from    
---ending_url: The ID of the Recipe that we end the scraping at       
+--starting_url -- The ID of the Recipe that we start the scraping from    
+--ending_url -- The ID of the Recipe that we end the scraping at       
 ex: ``` python3 recipe_scraping.py --starting_url 4003 --ending_url 4010 ```
