@@ -1,8 +1,8 @@
 # Recipe-Scraping
  
 ## Cloning
-git clone https://github.com/JatinArutla/Recipe-Scraping.git       
-cd Recipe-Scraping
+``` git clone https://github.com/JatinArutla/Recipe-Scraping.git ```      
+``` cd Recipe-Scraping ```
 
 ## Prerequisites
 Install the following:
