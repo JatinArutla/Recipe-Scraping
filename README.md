@@ -13,6 +13,7 @@ Install the following:
 * Install the python dependencies on the virtual environment: ``` pip install -r requirements.txt ```
 
 ## Web Scraping and Creating a CSV file
+Returns CSV files for the Recipe Nutrition data, Recipe Ingredient data and a Pickle file for the Forms of Ingredient data
 ### Usage:
 ``` python3 python3 dump_html.py --starting_url <starting_url> --ending_url <ending_url> ```      
 --starting_url -- The ID of the Recipe that we start the scraping from    
