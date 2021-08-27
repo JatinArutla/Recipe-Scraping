@@ -1,10 +1,10 @@
 # Recipe-Scraping
  
-# Cloning
+## Cloning
 git clone https://github.com/JatinArutla/Recipe-Scraping.git
 cd Recipe-Scraping
 
-# Web Scraping and Creating a CSV file 
+## Web Scraping and Creating a CSV file 
 Usage
 python3 python3 dump_html.py --starting_url <starting_url> --ending_url <ending_url>
 
