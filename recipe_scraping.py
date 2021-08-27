@@ -172,8 +172,8 @@ class creating_dataframe():
                     
             counter+=1
             # if (counter % 2000 == 0):
-            self.save_to_csv(df_nutrition, 'p_Nutrition.csv')
-            self.save_to_csv(df_ing, 'p_Ingredients.csv')
+            self.save_to_csv(df_nutrition, 'Nutrition.csv')
+            self.save_to_csv(df_ing, 'Ingredients.csv')
             
             f_name = 'hyperlinks.pkl'
             open_file = open(f_name, "wb")
