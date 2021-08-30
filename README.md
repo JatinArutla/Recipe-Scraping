@@ -8,7 +8,7 @@
 Install the following:
 * Start by installing virtualenv if you don't have it: ``` pip install virtualenv ```
 * Once installed access the project folder: ``` cd Recipe-Scraping ```
-* Create a virtual environment: ``` virtualenv VirtualEnv ```
+* Create a virtual environment: ``` python -m venv VirtualEnv ```
 * Enable the virtual environment: ``` source VirtualEnv/bin/activate ```
 * Install the python dependencies on the virtual environment: ``` pip install -r requirements.txt ```
 
