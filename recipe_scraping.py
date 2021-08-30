@@ -115,7 +115,7 @@ class creating_dataframe():
         hyperlinks = []
         
         for i in range(args.starting_url, args.ending_url):
-            time.sleep(0.5)
+            time.sleep(0.2)
             recipe_id = str(i)
             url = f'https://cosylab.iiitd.edu.in/recipedb/search_recipeInfo/{i}'
             soup = self.url_content(url)
